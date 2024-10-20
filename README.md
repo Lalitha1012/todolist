@@ -43,3 +43,5 @@ docker build -t my-todo-app .
 docker run -p 5000:5000 my-todo-app
 
 ````````
+
+Access the application on http://localhost:5000/
